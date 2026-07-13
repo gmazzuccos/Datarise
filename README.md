@@ -172,14 +172,14 @@ The repository is organized following production-oriented engineering practices,
 - [x] Repository initialization
 - [x] Documentation
 - [x] Project architecture
-- [ ] Docker environment
-- [ ] GitHub Actions
+- [x] Docker environment
+- [x] GitHub Actions
 
 ---
 
 ## Phase 2 — Data Platform
 
-- [ ] Landing Layer
+- [x] Landing Layer
 - [ ] Bronze Layer
 - [ ] Silver Layer
 - [ ] Gold Layer
@@ -230,12 +230,6 @@ The platform is being built incrementally using production-inspired engineering 
 
 ---
 
-# License
-
-This project is licensed under the MIT License.
-
----
-
 # Author
 
 **Gabriel Mazzucco**
@@ -244,6 +238,7 @@ Senior Data Engineer
 
 Building trusted data platforms for business-critical decisions.
 
-LinkedIn: *(add your profile)*
+LinkedIn: [Gabriel Mazzucco Linkedin Profile](https://www.linkedin.com/in/gabrielmazzucco/)
 
-GitHub: *(add your profile)*
+GitHub: [*(Gabriel Mazzucco Github profile)*](https://github.com/gmazzuccos)
+
